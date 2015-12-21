@@ -1,4 +1,4 @@
-package com.palvair.microservices;
+package com.palvair.microservices.services.registration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

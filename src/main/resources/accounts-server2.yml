@@ -1,7 +1,7 @@
 # Spring properties
 spring:
   application:
-     name: accounts-service
+     name: accounts-service2
 
 # Discovery Server Access
 eureka:
